@@ -1,14 +1,23 @@
 # House Rent Data
 
-This is collection of posts for house rent in Vietnam. For images data of posts, please contact `vanviethieuanh@gmail.com`:
+This is real data, collection of posts for house rent in Vietnam. For images data of posts, please contact `vanviethieuanh@gmail.com`:
 
 Data set contains:
 
-| Filename | Records | Descriptions          |
-| -------- | ------- | --------------------- |
-| hcm.json | 5000    | Ho Chi Minh City data |
+| Filename            | Records | Descriptions                                                 |
+| ------------------- | ------- | ------------------------------------------------------------ |
+| hcm.json or hcm.csv | 5000    | [Ho Chi Minh City](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City) data |
+| dn.json or dn.csv   | 768     | [Da Nang](https://en.wikipedia.org/wiki/Da_Nang) data        |
+| hn.json or hn.csv   | 3284    | [Ha Noi](https://en.wikipedia.org/wiki/Hanoi) data           |
 
-## Data and handling
+
+| Column name  | Column key | Description             | Note                                                       |
+| ------------ | ---------- | ----------------------- | ---------------------------------------------------------- |
+| Title        | title      | Title of the post       |                                                            |
+| Published in | published  | Date published          | dd/mm/yyyy                                                 |
+| Address      | address    | Address in detail       |                                                            |
+| Acreage      | acreage    | Acreage in square meter |                                                            |
+| Price        | price      | Price in millions VND   | If price is `-1`, it mean the owner want to disscuss more. |
 
 This is the sample of data.
 
@@ -41,16 +50,4 @@ Natively, `python (3.8)` will decode this string to:
     ...
 ]
 ```
-
-
-
-### Data fields
-
-| Column name  | Column key | Description             | Note                                                       |
-| ------------ | ---------- | ----------------------- | ---------------------------------------------------------- |
-| Title        | title      | Title of the post       |                                                            |
-| Published in | published  | Date published          | dd/mm/yyyy                                                 |
-| Address      | address    | Address in detail       |                                                            |
-| Acreage      | acreage    | Acreage in square meter |                                                            |
-| Price        | price      | Price in millions VND   | If price is `-1`, it mean the owner want to disscuss more. |
 
