@@ -722,7 +722,7 @@
     },
     {
         "title": "Cho Thu\u00ea Ph\u00f2ng \u1ede Gh\u00e9p G\u00eda Sinh Vi\u00ean Ngay Qu\u1eadn 10",
-        "price": 850.0,
+        "price": 0.85,
         "published": "25/04/2022",
         "acreage": 35.0,
         "address": "52 C\u01b0 X\u00e1 B\u1eafc H\u1ea3i, Ph\u01b0\u1eddng 15, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -743,7 +743,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 1.150k/th\u00e1ng ngay Tr\u01b0\u1eddng S\u01a1n, Ph\u01b0\u1eddng 15, Qu\u1eadn 10",
-        "price": 950.0,
+        "price": 0.95,
         "published": "04/05/2022",
         "acreage": 35.0,
         "address": "4 \u0110\u01b0\u1eddng Tr\u01b0\u1eddng S\u01a1n, Ph\u01b0\u1eddng 15, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -834,7 +834,7 @@
     },
     {
         "title": "CHO THU\u00ca PH\u00d2NG TR\u1ecc M\u1edaI TI\u1ec6N NGHI GI\u00c1 900K. \u0110\u01af\u1edcNG L\u00ca V\u0102N L\u01af\u01a0NG - \u0110\u00c0O S\u01af T\u00cdCH",
-        "price": 900.0,
+        "price": 0.9,
         "published": "13/03/2016",
         "acreage": 25.0,
         "address": "411/9 \u0110\u00e0o S\u01b0 T\u00edch - Ph\u01b0\u1edbc L\u1ed9c - Nh\u00e0 b\u00e8 (C\u00e1ch \u0111\u1ea7u \u0111\u01b0\u1eddng L\u00ea V\u0103n L\u01b0\u01a1ng kho\u1ea3ng 2km)"
@@ -1331,7 +1331,7 @@
     },
     {
         "title": "\u01a0\u0309 ghe\u0301p (nam) pho\u0300ng tro\u0323 C\u01b0 X\u00e1 Ph\u00fa L\u00e2m B, Q.6",
-        "price": 900.0,
+        "price": 0.9,
         "published": "04/11/2018",
         "acreage": 30.0,
         "address": "E1A \u0110\u01b0\u1eddng C\u01b0 X\u00e1 Ph\u00fa L\u00e2m B, Ph\u01b0\u1eddng 13, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -2066,7 +2066,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1 C\u00d3 M\u00c1Y L\u1ea0NH,K\u1ec6 B\u1ebeP, WC RI\u00caNG, GI\u1edc GI\u1ea4C T\u1ef0 DO ! BAO \u0110I\u1ec6N N\u01af\u1edaC !",
-        "price": 800.0,
+        "price": 0.8,
         "published": "26/02/2021",
         "acreage": 22.0,
         "address": "144 Ho\u00e0ng Ng\u00e2n, Ph\u01b0\u1eddng 16, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -2962,7 +2962,7 @@
     },
     {
         "title": "\u1ede gh\u00e9p m\u00e1y l\u1ea1nh bao \u0111i\u1ec7n n\u01b0\u1edbc, gi\u1eef xe 950k ngay Lotte",
-        "price": 950.0,
+        "price": 0.95,
         "published": "3 ng\u00e0y tr\u01b0\u1edbc",
         "acreage": 15.0,
         "address": "436 \u0110\u01b0\u1eddng Nguy\u1ec5n Th\u1ecb Th\u1eadp, Ph\u01b0\u1eddng T\u00e2n Quy, Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh"
@@ -2997,7 +2997,7 @@
     },
     {
         "title": "\u1ede gh\u00e9p tr\u1ecdn g\u00f3i 700k g\u1ea7n Lotte Mart",
-        "price": 700.0,
+        "price": 0.7,
         "published": "H\u00f4m nay",
         "acreage": 20.0,
         "address": "34 Ph\u1ed1 s\u1ed1 36, Ph\u01b0\u1eddng T\u00e2n Quy, Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh"
@@ -3172,7 +3172,7 @@
     },
     {
         "title": "KTX tr\u1ecdn g\u00f3i 700k 1134/4 Hu\u1ef3nh T\u1ea5n Ph\u00e1t c\u00f3 m\u00e1y l\u1ea1nh, m\u00e1y n\u01b0\u1edbc n\u00f3ng, m\u00e1y gi\u1eb7t",
-        "price": 700.0,
+        "price": 0.7,
         "published": "20/10/2021",
         "acreage": 20.0,
         "address": "1134/4 Hu\u1ef3nh t\u1ea5n ph\u00e1t q7 \u0110\u01b0\u1eddng Hu\u1ef3nh T\u1ea5n Ph\u00e1t, Ph\u01b0\u1eddng T\u00e2n Ph\u00fa, Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh"
@@ -4075,7 +4075,7 @@
     },
     {
         "title": "KTX M\u00c1Y L\u1ea0NH GI\u00c1 R\u1eba T\u1ea0I Q7",
-        "price": 400.0,
+        "price": 0.4,
         "published": "17/07/2017",
         "acreage": 50.0,
         "address": "L\u00ea V\u0103n L\u01b0\u01a1ng, Th\u1ecb tr\u1ea5n Nh\u00e0 B\u00e8, Huy\u1ec7n Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh"
@@ -4089,7 +4089,7 @@
     },
     {
         "title": "CHO THU\u00ca PH\u00d2NG TR\u1ecc M\u1edaI \u0110\u1eb8P, GI\u00c1 R\u1eba",
-        "price": 900.0,
+        "price": 0.9,
         "published": "01/10/2016",
         "acreage": 25.0,
         "address": "411/9 \u0110\u00e0o S\u01b0 T\u00edch, Th\u1ecb tr\u1ea5n Nh\u00e0 B\u00e8, Huy\u1ec7n Nh\u00e0 B\u00e8, H\u1ed3 Ch\u00ed Minh"
@@ -5153,7 +5153,7 @@
     },
     {
         "title": "Ph\u00f2ng KTX 450k/th\u00e1ng cho sinh vi\u00ean v\u00e0 ng\u01b0\u1eddi lao \u0111\u1ed9ng - Qu\u1eadn 11",
-        "price": 450.0,
+        "price": 0.45,
         "published": "24/12/2021",
         "acreage": 30.0,
         "address": "299/23F Ph\u1ed1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 15, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -5202,7 +5202,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 700k/th\u00e1ng bao \u0111i\u1ec7n, n\u01b0\u1edbc m\u00e1y l\u1ea1nh, wifi qu\u1eadn 11",
-        "price": 700.0,
+        "price": 0.7,
         "published": "29/04/2022",
         "acreage": 22.0,
         "address": "299 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 15, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -5258,7 +5258,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 ti\u1ec7n l\u1ee3i d\u00e0nh cho sinh vi\u00ean v\u00e0 ng\u01b0\u1eddi lao \u0111\u1ed9ng",
-        "price": 700.0,
+        "price": 0.7,
         "published": "30/08/2020",
         "acreage": 32.0,
         "address": "299 Ph\u1ed1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 15, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -5272,7 +5272,7 @@
     },
     {
         "title": "KTX Sinh Vi\u00ean Gi\u00e1 R\u1ebb - G\u1ea7n \u0110H B\u00e1ch Khoa - Qu\u1eadn 11",
-        "price": 750.0,
+        "price": 0.75,
         "published": "25/12/2020",
         "acreage": 30.0,
         "address": "299/23F Ph\u1ed1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 15, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -5370,7 +5370,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1 GI\u1ea2M GI\u00c1 50%cho sinh vi\u00ean ng\u01b0\u1eddi lao \u0111\u1ed9ng QU\u1eacN 10",
-        "price": 700.0,
+        "price": 0.7,
         "published": "26/07/2022",
         "acreage": 22.0,
         "address": "299/23F L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 15, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -6021,7 +6021,7 @@
     },
     {
         "title": "C\u1ea7n cho sinh vi\u00ean n\u1eef hay ng\u01b0\u1eddi \u0111i l\u00e0m \u1edf gh\u00e9p",
-        "price": 800.0,
+        "price": 0.8,
         "published": "31/08/2020",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng T\u1ea3n \u0110\u00e0, Ph\u01b0\u1eddng 11, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -6140,7 +6140,7 @@
     },
     {
         "title": "C\u1ea7n cho sinh vi\u00ean n\u1eef, ng\u01b0\u1eddi \u0111i l\u00e0m thu\u00ea \u1edf gh\u00e9p",
-        "price": 800.0,
+        "price": 0.8,
         "published": "05/12/2020",
         "acreage": 12.0,
         "address": "L\u00f4 G1, Chung C\u01b0 H\u00f9ng V\u01b0\u01a1ng \u0110\u01b0\u1eddng T\u1ea3n \u0110\u00e0, Ph\u01b0\u1eddng 11, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -6567,7 +6567,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd ky\u0301 tu\u0301c xa\u0301 gia\u0300nh cho sinh vi\u00ean va\u0300 ng\u01b0\u01a1\u0300i lao \u0111\u00f4\u0323ng",
-        "price": 500.0,
+        "price": 0.5,
         "published": "19/02/2019",
         "acreage": 50.0,
         "address": "21 nguy\u00ea\u0303n kim Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -6651,7 +6651,7 @@
     },
     {
         "title": "K\u00fd tu\u0301c xa\u0301 m\u00e1y l\u1ea1nh, g\u1ea7n \u0110H Y D\u01b0\u1ee3c, BV Ch\u1ee3 r\u1eaby, gi\u01a1\u0300 gi\u00e2\u0301c t\u01b0\u0323 do, 500k/th\u00e1ng",
-        "price": 500.0,
+        "price": 0.5,
         "published": "16/01/2018",
         "acreage": 50.0,
         "address": "21 \u0110\u01b0\u1eddng Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -6672,21 +6672,21 @@
     },
     {
         "title": "K\u00ed t\u00fac x\u00e1 g\u1ea7n \u0111\u1ea1i h\u1ecdc Y D\u01b0\u1ee3c, BV Ch\u1ee3 R\u1eaby, \u0110H H\u1ed3ng B\u00e0ng, Q.5",
-        "price": 600.0,
+        "price": 0.6,
         "published": "18/06/2017",
         "acreage": 18.0,
         "address": "21 Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Cho thu\u00ea Ph\u00f2ng K\u00fd t\u00fac x\u00e1 m\u1edbi, m\u00e1y l\u1ea1nh, ti\u1ec7n nghI, ti\u1ec7n \u00edch, \u01afu ti\u00ean SV, nh\u00e2n vi\u00ean VP",
-        "price": 550.0,
+        "price": 0.55,
         "published": "13/04/2017",
         "acreage": 30.0,
         "address": "21 Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 c\u1ea1nh Parkson H\u00f9ng V\u01b0\u01a1ng, Q.5",
-        "price": 500.0,
+        "price": 0.5,
         "published": "20/01/2018",
         "acreage": 50.0,
         "address": "21 Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -6784,7 +6784,7 @@
     },
     {
         "title": "K\u00fd tu\u0301c xa\u0301 cao c\u00e2\u0301p, g\u1ea7n \u0110H Y D\u01b0\u1ee3c, BV Ch\u1ee3 r\u1eaby, BV H\u00f9ng V\u01b0\u01a1ng, gi\u01a1\u0300 gi\u00e2\u0301c t\u01b0\u0323 do, ch\u1ec9 c\u00f3 500k/th\u00e1ng, m\u00e1y l\u1ea1nh",
-        "price": 500.0,
+        "price": 0.5,
         "published": "27/03/2018",
         "acreage": 50.0,
         "address": "21 Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -6812,7 +6812,7 @@
     },
     {
         "title": "K\u00fd T\u00fac x\u00e1 g\u1ea7n \u0110H Y D\u01b0\u01a1\u0323c, \u0110H Kinh t\u1ebf, \u0110H QT H\u00f4ng B\u00e0ng, \u0110H C\u00f4ng ngh\u1ec7 TT, PT n\u0103ng khi\u1ebfu, BV Hu\u0300ng V\u01b0\u01a1ng, BV Ch\u01a1\u0323 R\u00e2\u0303y",
-        "price": 500.0,
+        "price": 0.5,
         "published": "19/07/2018",
         "acreage": 50.0,
         "address": "21 Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -6861,14 +6861,14 @@
     },
     {
         "title": "K\u00fd tu\u0301c xa\u0301 cao c\u00e2\u0301p, gi\u01a1\u0300 gi\u00e2\u0301c t\u01b0\u0323 do, ch\u1ec9 c\u00f3 500k/th\u00e1ng, m\u00e1y l\u1ea1nh",
-        "price": 500.0,
+        "price": 0.5,
         "published": "15/02/2019",
         "acreage": 50.0,
         "address": "21 \u0110\u01b0\u1eddng Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Ky\u0301 tu\u0301c xa\u0301 500k sinh vi\u00ean va\u0300 ng\u01b0\u01a1\u0300i lao \u0111\u00f4\u0323ng",
-        "price": 500.0,
+        "price": 0.5,
         "published": "16/02/2019",
         "acreage": 50.0,
         "address": "21\u0110\u01b0\u1eddng Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -7008,7 +7008,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 g\u1ea7n \u0110H Y D\u01b0\u1ee3c, PT N\u0103ng khi\u1ebfu, BV Ch\u1ee3 R\u1eaby, H\u00f9ng V\u01b0\u01a1ng, ch\u1ec9 c\u00f3 500.000 \u0111/th, gi\u1edd gi\u1ea5c t\u1ef1 do",
-        "price": 500.0,
+        "price": 0.5,
         "published": "24/03/2020",
         "acreage": 45.0,
         "address": "21 \u0110\u01b0\u1eddng Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -7022,7 +7022,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 g\u1ea7n \u0110H H\u00f9ng V\u01b0\u01a1ng , Y D\u01b0\u1ee3c, BV Ch\u1ee3 R\u1eaby",
-        "price": 700.0,
+        "price": 0.7,
         "published": "20/06/2020",
         "acreage": 45.0,
         "address": "\u0110\u01b0\u1eddng Nguy\u1ec5n Kim, Ph\u01b0\u1eddng 12, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -7862,7 +7862,7 @@
     },
     {
         "title": "PH\u00d2NG CHO THU\u00ca TRUNG T\u00c2M CH\u1ee2 L\u1edaN (P.14, Q.5)",
-        "price": 798.0,
+        "price": 0.798,
         "published": "20/09/2018",
         "acreage": 6.0,
         "address": "984 \u0110\u01b0\u1eddng Nguy\u1ec5n Tr\u00e3i, Ph\u01b0\u1eddng 14, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -8415,7 +8415,7 @@
     },
     {
         "title": "CHO N\u1eee THU\u00ca PH\u00d2NG TR\u1ecc KH\u00d4NG CHUNG CH\u1ee6 - T\u1eea 500K \u0110\u1ebeN 1.000K",
-        "price": 500.0,
+        "price": 0.5,
         "published": "16/01/2020",
         "acreage": 6.0,
         "address": "497 \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Ph\u01b0\u1eddng 14, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -8604,7 +8604,7 @@
     },
     {
         "title": "C\u1ea7n sinh vi\u00ean ho\u1eb7c ng\u01b0\u1eddi \u0111i l\u00e0m \u1edf gh\u00e9p",
-        "price": 800.0,
+        "price": 0.8,
         "published": "12/11/2018",
         "acreage": 40.0,
         "address": "Ph\u01b0\u1eddng 1, Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh"
@@ -9633,7 +9633,7 @@
     },
     {
         "title": "\u1ede gh\u00e9p tr\u1ecdn g\u00f3i 800k ngay \u0111\u1ea1i h\u1ecdc Lu\u1eadt v\u00e0 Nguy\u1ec5n T\u1ea5t Th\u00e0nh",
-        "price": 800.0,
+        "price": 0.8,
         "published": "3 ng\u00e0y tr\u01b0\u1edbc",
         "acreage": 30.0,
         "address": "84 \u0110\u01b0\u1eddng Nguy\u1ec5n T\u1ea5t Th\u00e0nh, Ph\u01b0\u1eddng 12, Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh"
@@ -10179,7 +10179,7 @@
     },
     {
         "title": "Ph\u00f2ng Tr\u1ecd Homestay KTX 39 Nguy\u1ec5n T\u1ea5t Th\u00e0nh Ph\u01b0\u1eddng 13, Qu\u1eadn 4",
-        "price": 500.0,
+        "price": 0.5,
         "published": "26/06/2022",
         "acreage": 50.0,
         "address": "39 \u0110\u01b0\u1eddng Nguy\u1ec5n T\u1ea5t Th\u00e0nh, Ph\u01b0\u1eddng 13, Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh"
@@ -10193,7 +10193,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd qu\u1eadn 4, gi\u00e1 r\u1ebb 700 ngh\u00ecn/ng\u01b0\u1eddi/th\u00e1ng, cho n\u1eef SV 700.000 \u0111 700.000 \u0111",
-        "price": 700.0,
+        "price": 0.7,
         "published": "11/07/2022",
         "acreage": 60.0,
         "address": "469/14 \u0110\u01b0\u1eddng \u0110o\u00e0n V\u0103n B\u01a1, Ph\u01b0\u1eddng 13, Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh"
@@ -10459,7 +10459,7 @@
     },
     {
         "title": "C\u1ea7n t\u00ecm ph\u00f2ng tr\u1ecd cho nam \u1edf gh\u00e9p ho\u1eb7c cho thu\u00ea t\u1ea1i Qu\u1eadn 4 gi\u00e1 t\u1eeb 700k \u0111\u1ebfn 900",
-        "price": 700.0,
+        "price": 0.7,
         "published": "23/09/2020",
         "acreage": 10.0,
         "address": "\u0110\u01b0\u1eddng X\u00f3m Chi\u1ebfu, Ph\u01b0\u1eddng 15, Qu\u1eadn 4, H\u1ed3 Ch\u00ed Minh"
@@ -10949,7 +10949,7 @@
     },
     {
         "title": "Ph\u00f2ng m\u1edbi c\u1ea7n cho thu\u00ea, khu y\u00ean t\u0129nh, \u0111i\u1ec7n n\u01b0\u1edbc nh\u00e0 n\u01b0\u1edbc",
-        "price": 800.0,
+        "price": 0.8,
         "published": "17/05/2019",
         "acreage": 15.0,
         "address": "4305/1 \u0110\u01b0\u1eddng Nguy\u1ec5n C\u1eedu Ph\u00fa, Ph\u01b0\u1eddng T\u00e2n T\u1ea1o A, Qu\u1eadn B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh"
@@ -11061,7 +11061,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 gi\u00e1 r\u1ebb qu\u1eadn 5 750k/th\u00e1ng bao tr\u1ecdn g\u00f3i",
-        "price": 700.0,
+        "price": 0.7,
         "published": "07/06/2021",
         "acreage": 30.0,
         "address": "239 \u0110\u01b0\u1eddng Cao \u0110\u1ea1t, Ph\u01b0\u1eddng 1, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -11075,7 +11075,7 @@
     },
     {
         "title": "Cho Thu\u00ea Ph\u00f2ng Tr\u1ecd KTX Gi\u00e1 R\u1ebb Cao \u0110\u1ea1t Qu\u1eadn 5",
-        "price": 700.0,
+        "price": 0.7,
         "published": "17/04/2021",
         "acreage": 30.0,
         "address": "239 \u0110\u01b0\u1eddng Cao \u0110\u1ea1t, Ph\u01b0\u1eddng 1, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -11278,7 +11278,7 @@
     },
     {
         "title": "Ph\u00f2ng cho thu\u00ea gi\u00e1 r\u1ebb, r\u1ed9ng, g\u1ea7n c\u00e1c tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc, cao \u0111\u1eb3ng, ch\u1ee3 v\u00e0 si\u00eau th\u1ecb",
-        "price": 500.0,
+        "price": 0.5,
         "published": "27/05/2018",
         "acreage": 40.0,
         "address": "70/3 \u0110\u01b0\u1eddng Tr\u1ea7n Tu\u1ea5n Kh\u1ea3i, Ph\u01b0\u1eddng 5, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -11306,7 +11306,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 35m2, gi\u00e1 650k..239 Cao \u0110\u1ea1t...P.1..Q5. \u0110T: 0827713456",
-        "price": 650.0,
+        "price": 0.65,
         "published": "28/03/2021",
         "acreage": 35.0,
         "address": "239.\u0110\u01b0\u1eddng Cao \u0110\u1ea1t, Ph\u01b0\u1eddng 1, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -12034,7 +12034,7 @@
     },
     {
         "title": "C\u1ea7n t\u00ecm ngu\u1eddi \u1edf gh\u00e9p ph\u00f2ng tr\u1ecd \u0111\u01b0\u1eddng L\u1ed9 T\u1ebb, qu\u1eadn B\u00ecnh T\u00e2n",
-        "price": 800.0,
+        "price": 0.8,
         "published": "21/02/2016",
         "acreage": 12.0,
         "address": "30-31 L\u1ed9 T\u1ebb, ph\u01b0\u1eddng T\u00e2n T\u1ea1o, qu\u1eadn B\u00ecnh T\u00e2n"
@@ -12076,7 +12076,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd gi\u00e1 800-900/1 ph\u00f2ng/1 th\u00e1ng,1571 t\u1ec9nh l\u1ed9 10 T\u00e2n T\u1ea1o A, B\u00ecnh T\u00e2n, tolet ri\u00eang, g\u00e1c r\u1ed9ng, ch\u1ed7 \u0111\u1ec3 xe, wifi mi\u1ec5n ph\u00ed",
-        "price": 800.0,
+        "price": 0.8,
         "published": "07/08/2018",
         "acreage": 15.0,
         "address": "1571 \u0110\u01b0\u1eddng T\u1ec9nh L\u1ed9 10, Ph\u01b0\u1eddng T\u00e2n T\u1ea1o A, Qu\u1eadn B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh"
@@ -12090,7 +12090,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd qu\u1eadn B\u00ecnh T\u00e2n, ph\u00f2ng c\u00f3 tolet ri\u00eang, c\u00f3 g\u00e1c r\u1ed9ng, an ninh....ai mu\u1ed1n coi ph\u00f2ng vui l\u00f2ng g\u1ecdi 0983709237",
-        "price": 800.0,
+        "price": 0.8,
         "published": "19/07/2018",
         "acreage": 10.0,
         "address": "1571 \u0110\u01b0\u1eddng T\u1ec9nh L\u1ed9 10, Ph\u01b0\u1eddng T\u00e2n T\u1ea1o A, Qu\u1eadn B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh"
@@ -12230,7 +12230,7 @@
     },
     {
         "title": "C\u1ea7n m\u1ed9t n\u1eef sinh \u1edf gh\u00e9p, ph\u00f2ng r\u1ed9ng s\u1ea1ch s\u1ebd",
-        "price": 800.0,
+        "price": 0.8,
         "published": "13/02/2019",
         "acreage": 24.0,
         "address": "271/1 \u0110\u01b0\u1eddng An D\u01b0\u01a1ng V\u01b0\u01a1ng, Ph\u01b0\u1eddng 3, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -12314,7 +12314,7 @@
     },
     {
         "title": "KTX gi\u01b0\u1eddng t\u1ea7ng cao c\u1ea5p, th\u00edch h\u1ee3p cho Sinh Vi\u00ean, Nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng, Ng\u01b0\u1eddi \u0111i l\u00e0m",
-        "price": 900.0,
+        "price": 0.9,
         "published": "13/08/2020",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng Tr\u1ea7n B\u00ecnh Tr\u1ecdng, Ph\u01b0\u1eddng 3, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -12531,7 +12531,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd c\u00f3 g\u00e1c v\u00e0 K\u00fd t\u00fac x\u00e1 gi\u00e1 ch\u1ec9 900K/th\u00e1ng t\u1ea1i 112/8/10 \u0110\u01b0\u1eddng An B\u00ecnh, Ph\u01b0\u1eddng 5, Qu\u1eadn 5",
-        "price": 900.0,
+        "price": 0.9,
         "published": "28/07/2022",
         "acreage": 28.0,
         "address": "112/8/10 \u0110\u01b0\u1eddng An B\u00ecnh, Ph\u01b0\u1eddng 5, Qu\u1eadn 5, H\u1ed3 Ch\u00ed Minh"
@@ -12734,7 +12734,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd cao c\u1ea5p gi\u00e1 c\u1ef1c b\u00ecnh d\u00e2n Eagle's Nest",
-        "price": 800.0,
+        "price": 0.8,
         "published": "28/06/2016",
         "acreage": 20.0,
         "address": "B\u00e3i S\u1eady, Ph\u01b0\u1eddng 8, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -12769,7 +12769,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd d\u00e0nh cho n\u1eef (Cho thu\u00ea) Qu\u1eadn 6",
-        "price": 800.0,
+        "price": 0.8,
         "published": "07/07/2016",
         "acreage": 30.0,
         "address": "277 B\u00e3i S\u1eady, Ph\u01b0\u1eddng 8, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -13140,7 +13140,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd h\u1ed7 tr\u1ee3 sinh vi\u00ean n\u1eef kh\u00f3 kh\u0103n v\u1ec1 n\u01a1i \u1edf. T\u1ea1i \u0110\u01b0\u1eddng Qu\u1ed1c L\u1ed9 50, Ph\u01b0\u1eddng 6, Qu\u1eadn 8",
-        "price": 1.0,
+        "price": 0.001,
         "published": "24/03/2022",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng Qu\u1ed1c L\u1ed9 50, Ph\u01b0\u1eddng 6, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -13322,7 +13322,7 @@
     },
     {
         "title": "\u1ede gh\u00e9p m\u00e1y l\u1ea1nh, m\u00e1y gi\u1eb7t, t\u1eafm n\u01b0\u1edbc n\u00f3ng -700k Ph\u1ea1m H\u00f9ng",
-        "price": 700.0,
+        "price": 0.7,
         "published": "3 ng\u00e0y tr\u01b0\u1edbc",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng 5, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -13623,7 +13623,7 @@
     },
     {
         "title": "CHO \u1edc GH\u00c9P PH\u00d2NG TR\u1ecc, R\u1ed8NG, THO\u00c1NG, S\u1ea0CH S\u1ebc",
-        "price": 750.0,
+        "price": 0.75,
         "published": "07/09/2017",
         "acreage": 21.0,
         "address": "3034 \u0110\u01b0\u1eddng Ph\u1ea1m Th\u1ebf Hi\u1ec3n, Ph\u01b0\u1eddng 7, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -13791,7 +13791,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 gi\u00e1 r\u1ebb 550k trung t\u00e2m Q8",
-        "price": 550.0,
+        "price": 0.55,
         "published": "05/05/2022",
         "acreage": 160.0,
         "address": "\u0110\u01b0\u1eddng Ph\u1ea1m H\u00f9ng, Ph\u01b0\u1eddng 8, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -14253,7 +14253,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd cho thu\u00ea gi\u00e1 r\u1ebb ngay c\u1ea7u Ch\u00e0 v\u00e0, Qu\u1eadn 8",
-        "price": 650.0,
+        "price": 0.65,
         "published": "17/10/2020",
         "acreage": 12.0,
         "address": "690/17F1 \u0110\u01b0\u1eddng Nguy\u1ec5n Duy, Ph\u01b0\u1eddng 12, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -14337,7 +14337,7 @@
     },
     {
         "title": "PH\u00d2NG TR\u1ecc \u0110\u01af\u1edcNG MINH PH\u1ee4NG, QU\u1eacN 6",
-        "price": 750.0,
+        "price": 0.75,
         "published": "06/07/2017",
         "acreage": 24.0,
         "address": "221 Minh Ph\u1ee5ng, Ph\u01b0\u1eddng 6, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -14414,7 +14414,7 @@
     },
     {
         "title": "CHO THU\u00ca PH\u00d2NG TR\u1ecc GI\u00c1 H\u1ee2P L\u00cd, PH\u00d2NG THO\u00c1NG M\u00c1T, S\u1ea0CH S\u1ebc",
-        "price": 700.0,
+        "price": 0.7,
         "published": "25/05/2016",
         "acreage": 10.0,
         "address": "S\u1ed1 30, L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn, Ph\u01b0\u1eddng 13, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -14442,7 +14442,7 @@
     },
     {
         "title": "CHO THU\u00ca PH\u00d2NG TR\u1ecc GI\u00c1 C\u1ea2 H\u1ee2P L\u00cd, KHU AN NINH, \u0110\u1ed0I T\u01af\u1ee2NG HOC SINH SINH VI\u00caN C\u00d4NG NH\u00c2N VI\u00caN CH\u1ee8C",
-        "price": 700.0,
+        "price": 0.7,
         "published": "29/05/2016",
         "acreage": 10.0,
         "address": "S\u1ed1 30, L\u01b0\u01a1ng Ng\u1ecdc Quy\u1ebfn, Ph\u01b0\u1eddng 13, Qu\u1eadn 8, H\u1ed3 Ch\u00ed Minh"
@@ -14848,7 +14848,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd b\u00ecnh d\u00e2n 900k t\u1ea1i \u0111\u01b0\u1eddng B\u00ecnh Ti\u00ean Ph\u01b0\u1eddng 7 Qu\u1eadn 6",
-        "price": 900.0,
+        "price": 0.9,
         "published": "24/09/2020",
         "acreage": 10.0,
         "address": "\u0110\u01b0\u1eddng B\u00ecnh Ti\u00ean, Ph\u01b0\u1eddng 7, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -14967,7 +14967,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng \u1edf gh\u00e9p n\u1eef, c\u00f3 nh\u00e0 v\u1ec7 sinh ri\u00eang t\u1eebng ph\u00f2ng",
-        "price": 800.0,
+        "price": 0.8,
         "published": "05/12/2016",
         "acreage": 30.0,
         "address": "B\u00e3i S\u1eady, Ph\u01b0\u1eddng 8, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -15247,7 +15247,7 @@
     },
     {
         "title": "T\u00ecm 1 n\u1eef \u1edf gh\u00e9p sinh vi\u00ean c\u00e0ng t\u1ed1t",
-        "price": 800.0,
+        "price": 0.8,
         "published": "22/09/2016",
         "acreage": 40.0,
         "address": "L6 C\u01b0 X\u00e1 Ph\u00fa L\u00e2m A, Ph\u01b0\u1eddng 12, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -15464,7 +15464,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd g\u1ea7n ch\u1ee3 C\u00e2y G\u00f5, Qu\u1eadn 6. Ch\u1ec9 700k",
-        "price": 700.0,
+        "price": 0.7,
         "published": "20/08/2020",
         "acreage": 9.0,
         "address": "1 \u0110\u01b0\u1eddng L\u00f2 G\u1ed1m, Ph\u01b0\u1eddng 9, Qu\u1eadn 6, H\u1ed3 Ch\u00ed Minh"
@@ -15940,7 +15940,7 @@
     },
     {
         "title": "T\u00ecm m\u1ed9t n\u1eef \u1edf gh\u00e9p Qu\u1eadn 11",
-        "price": 600.0,
+        "price": 0.6,
         "published": "18/07/2016",
         "acreage": 15.0,
         "address": "Nguy\u1ec5n Th\u1ecb Nh\u1ecf, Ph\u01b0\u1eddng 16, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -16038,7 +16038,7 @@
     },
     {
         "title": "Tim Nam Sinh Vi\u00ean \u1edf gh\u00e9p Q11",
-        "price": 700.0,
+        "price": 0.7,
         "published": "04/11/2015",
         "acreage": 70.0,
         "address": "20/1/5 D\u01b0\u01a1ng \u0110\u00ecnh Ngh\u1ec7, Qu\u1eadn 11"
@@ -17536,7 +17536,7 @@
     },
     {
         "title": "Q.3,CC V\u00d2NG XOAY D\u00c2N CH\u1ee6, FULL TIEN NGHI, T\u00ccM NG\u01af\u1edcI SHARE PH\u00d2NG",
-        "price": 900.0,
+        "price": 0.9,
         "published": "10/01/2021",
         "acreage": 90.0,
         "address": "\u0110\u01b0\u1eddng C\u00e1ch M\u1ea1ng Th\u00e1ng T\u00e1m, Ph\u01b0\u1eddng 7, Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh"
@@ -22723,7 +22723,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd m\u1eb7t ti\u1ec1n Tr\u1ea7n V\u0103n \u0110ang qu\u1eadn 3 - 5.2 m2 - L\u1ea7u 4",
-        "price": 900.0,
+        "price": 0.9,
         "published": "24/05/2022",
         "acreage": 5.2,
         "address": "219/9/7 \u0110\u01b0\u1eddng Tr\u1ea7n V\u0103n \u0110ang, Ph\u01b0\u1eddng 11, Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh"
@@ -24053,7 +24053,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd \u1edf k\u00ed t\u00fac x\u00e1 t\u1ea1i \u0110\u01b0\u1eddng Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 5, Qu\u1eadn G\u00f2 V\u1ea5p",
-        "price": 900.0,
+        "price": 0.9,
         "published": "15/06/2022",
         "acreage": 24.0,
         "address": "366/1 \u0110\u01b0\u1eddng Phan V\u0103n Tr\u1ecb, Ph\u01b0\u1eddng 5, Qu\u1eadn G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh"
@@ -24508,7 +24508,7 @@
     },
     {
         "title": "PH\u00d2NG KTX \u0110\u1ea0I H\u1eccC C\u00d4NG NGHI\u1ec6P (200M) THANG M\u00c1Y, M\u00c1Y L\u1ea0NH, M\u00c1Y GI\u1eb6T, WIFI, B\u1ebeP",
-        "price": 900.0,
+        "price": 0.9,
         "published": "H\u00f4m nay",
         "acreage": 28.0,
         "address": "60/18A \u0110\u01b0\u1eddng Hu\u1ef3nh Kh\u01b0\u01a1ng An, Ph\u01b0\u1eddng 5, Qu\u1eadn G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh"
@@ -24683,7 +24683,7 @@
     },
     {
         "title": "PH\u00d2NG TR\u1ecc - K\u00dd T\u00daC X\u00c1 NGAY \u0110H C\u00d4NG NGHI\u1ec6P TP.HCM",
-        "price": 900.0,
+        "price": 0.9,
         "published": "15/10/2020",
         "acreage": 34.0,
         "address": "06 \u0110\u01b0\u1eddng L\u00ea L\u1ee3i, Ph\u01b0\u1eddng 4, Qu\u1eadn G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh"
@@ -27924,7 +27924,7 @@
     },
     {
         "title": "Ph\u00f2ng k\u00fd t\u00fac x\u00e1 qu\u1eadn Ph\u00fa Nhu\u1eadn h\u1ed7 tr\u1ee3 30% gi\u00e1 m\u00f9a d\u1ecbch",
-        "price": 490.0,
+        "price": 0.49,
         "published": "22/07/2021",
         "acreage": 20.0,
         "address": "120/9 Th\u00edch Qu\u1ea3ng \u0110\u1ee9c, Ph\u01b0\u1eddng 4, Qu\u1eadn Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh"
@@ -28022,7 +28022,7 @@
     },
     {
         "title": "Ch\u00e0o \u0111\u00f3n t\u00e2n sinh vi\u00ean qu\u1eadn Ph\u00fa Nhu\u1eadn - ktx 700k/th\u00e1ng",
-        "price": 700.0,
+        "price": 0.7,
         "published": "17/07/2022",
         "acreage": 25.0,
         "address": "120/9a \u0110\u01b0\u1eddng Th\u00edch Qu\u1ea3ng \u0110\u1ee9c, Ph\u01b0\u1eddng 4, Qu\u1eadn Ph\u00fa Nhu\u1eadn, H\u1ed3 Ch\u00ed Minh"
@@ -29030,7 +29030,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd g\u1ea7n ch\u1ee3 B\u1ebfn Th\u00e0nh",
-        "price": 900.0,
+        "price": 0.9,
         "published": "15/06/2019",
         "acreage": 40.0,
         "address": "\u0110\u01b0\u1eddng Nguy\u1ec5n C\u00f4ng Tr\u1ee9, Ph\u01b0\u1eddng Nguy\u1ec5n Th\u00e1i B\u00ecnh, Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh"
@@ -31578,7 +31578,7 @@
     },
     {
         "title": "Cho thu\u00ea nh\u00e0 tr\u1ecd ch\u00ednh ch\u1ee7 qu\u1eadn 12",
-        "price": 800.0,
+        "price": 0.8,
         "published": "24/01/2021",
         "acreage": 12.0,
         "address": "\u0110\u01b0\u1eddng H\u00e0 Huy Gi\u00e1p, Ph\u01b0\u1eddng Th\u1ea1nh Xu\u00e2n, Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh"
@@ -32089,7 +32089,7 @@
     },
     {
         "title": "Eco Home - K\u00fd T\u00fac X\u00e1 m\u00e1y l\u1ea1nh cao c\u1ea5p \u0111\u01b0\u1eddng T\u00f4 K\u00fd, bao \u0111i\u1ec7n n\u01b0\u1edbc, gi\u00e1 ch\u1ec9 t\u1eeb 900k",
-        "price": 900.0,
+        "price": 0.9,
         "published": "27/06/2020",
         "acreage": 20.0,
         "address": "486 \u0110\u01b0\u1eddng T\u00f4 K\u00fd, Ph\u01b0\u1eddng T\u00e2n Ch\u00e1nh Hi\u1ec7p, Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh"
@@ -32257,7 +32257,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1- T\u00d4 K\u00dd- QUANG TRUNG - C\u00d4NG VI\u00caN PH\u1ea6N M\u1ec0M QUANG TRUNG - QU\u1eacN 12",
-        "price": 990.0,
+        "price": 0.99,
         "published": "27/08/2020",
         "acreage": 105.0,
         "address": "Ph\u01b0\u1eddng T\u00e2n Ch\u00e1nh Hi\u1ec7p, Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh"
@@ -32313,7 +32313,7 @@
     },
     {
         "title": "[Q12] K\u00dd T\u00daC X\u00c1 CAO C\u1ea4P BAO \u0110I\u1ec6N N\u01af\u1edaC G\u1ea6N TR\u01af\u1edcNG \u0110H GIAO TH\u00d4NG V\u1eacN T\u1ea2I - 900K/TH\u00c1NG",
-        "price": 900.0,
+        "price": 0.9,
         "published": "18/01/2021",
         "acreage": 20.0,
         "address": "35/45 \u0110\u01b0\u1eddng T\u00e2n Ch\u00e1nh Hi\u1ec7p 18, Ph\u01b0\u1eddng T\u00e2n Ch\u00e1nh Hi\u1ec7p, Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh"
@@ -32670,7 +32670,7 @@
     },
     {
         "title": "Ch\u00ednh ch\u1ee7 cho thu\u00ea Ph\u00f2ng D\u1ea1y H\u1ecdc c\u00f3 s\u1eb5n v\u1eadt d\u1ee5ng t\u1ea1i Nguy\u1ec5n Th\u1ecb Ki\u1ec3u, Q.12. Gi\u00e1 700k/th\u00e1ng",
-        "price": 700.0,
+        "price": 0.7,
         "published": "18/10/2019",
         "acreage": 30.0,
         "address": "Ph\u01b0\u1eddng T\u00e2n Th\u1edbi Hi\u1ec7p, Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh"
@@ -32754,7 +32754,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng d\u1ea1y h\u1ecdc t\u1ea1i 223 Nguy\u1ec5n Th\u1ecb Ki\u1ec3u ph\u01b0\u1eddng T\u00e2n Th\u1edbi Hi\u1ec7p Qu\u1eadn 12",
-        "price": 800.0,
+        "price": 0.8,
         "published": "18/05/2022",
         "acreage": 25.0,
         "address": "Ph\u01b0\u1eddng T\u00e2n Th\u1edbi Hi\u1ec7p, Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh"
@@ -33265,7 +33265,7 @@
     },
     {
         "title": "C\u1ea7n chia ph\u00f2ng tr\u1ecd Q.12 g\u1ea7n Metro 850k kh\u00f4ng ph\u00e1t sinh th\u00eam g\u00ec, ph\u00f2ng m\u1edbi x\u00e2y c\u00f3 gi\u01b0\u1eddng",
-        "price": 850.0,
+        "price": 0.85,
         "published": "07/12/2019",
         "acreage": 30.0,
         "address": "\u0110\u01b0\u1eddng L\u00ea \u0110\u1ee9c Th\u1ecd, Ph\u01b0\u1eddng Th\u1edbi An, Qu\u1eadn 12, H\u1ed3 Ch\u00ed Minh"
@@ -33552,7 +33552,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd gi\u00e1 r\u1ebb s\u1ea1ch s\u1ebd d\u00e0nh cho sinh vi\u00ean v\u00e0 ng\u01b0\u1eddi \u0111i l\u00e0m",
-        "price": 900.0,
+        "price": 0.9,
         "published": "11/09/2020",
         "acreage": 12.0,
         "address": "136/40 \u0110\u01b0\u1eddng Nguy\u1ec5n Th\u01b0\u1ee3ng Hi\u1ec1n, Ph\u01b0\u1eddng 1, Qu\u1eadn G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh"
@@ -34056,7 +34056,7 @@
     },
     {
         "title": "Ph\u00f2ng toilet ri\u00eang, gi\u1edd gi\u1ea5c t\u1ef1 do 24/24",
-        "price": 900.0,
+        "price": 0.9,
         "published": "02/01/2020",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng Th\u00e0nh Th\u00e1i, Ph\u01b0\u1eddng 8, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -34203,7 +34203,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd gi\u00e1 r\u1ebb \u1edf qu\u1eadn 10",
-        "price": 846.0,
+        "price": 0.846,
         "published": "13/12/2017",
         "acreage": 6.0,
         "address": "433/44/3 L\u00fd Th\u00e1i T\u1ed5, Ph\u01b0\u1eddng 9, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -34224,7 +34224,7 @@
     },
     {
         "title": "Chung c\u01b0 An Quang, Q.10 cho thu\u00ea ph\u00f2ng gi\u00e1 r\u1ebb 900k",
-        "price": 900.0,
+        "price": 0.9,
         "published": "08/12/2017",
         "acreage": 12.0,
         "address": "190 \u0110\u01b0\u1eddng V\u0129nh Vi\u1ec5n, Ph\u01b0\u1eddng 9, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -34721,7 +34721,7 @@
     },
     {
         "title": "T\u00ecm 2 n\u1eef \u1edf gh\u00e9p trung t\u00e2m qu\u1eadn 1",
-        "price": 850.0,
+        "price": 0.85,
         "published": "13/02/2019",
         "acreage": 25.0,
         "address": "41/20 \u0110\u01b0\u1eddng C\u00f4 Giang, Ph\u01b0\u1eddng C\u1ea7u \u00d4ng L\u00e3nh, Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh"
@@ -34917,7 +34917,7 @@
     },
     {
         "title": "KTX g\u1ea7n \u0111\u01b0\u1eddng Cao Th\u1eafng, 3 th\u00e1ng 2 q10, q3",
-        "price": 700.0,
+        "price": 0.7,
         "published": "22/05/2022",
         "acreage": 28.0,
         "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -34938,7 +34938,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1 ngay trung t\u00e2m v\u00e0 c\u00e1c qu\u1eadn trong tphcm",
-        "price": 750.0,
+        "price": 0.75,
         "published": "21/05/2022",
         "acreage": 26.0,
         "address": "\u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35057,7 +35057,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd 26m\u00b2 gi\u1ea3m 300K \u0111\u1ebfn 3 th\u00e1ng \u0111\u1ea7u",
-        "price": 750.0,
+        "price": 0.75,
         "published": "28/03/2021",
         "acreage": 26.0,
         "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35078,7 +35078,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd, k\u00fd t\u00fac x\u00e1 mi\u1ec5n ph\u00ed th\u00e1ng \u0111\u1ea7u",
-        "price": 750.0,
+        "price": 0.75,
         "published": "23/01/2022",
         "acreage": 26.0,
         "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35099,7 +35099,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1, PH\u00d2NG TR\u1ecc O \u0110\u1ed2NG TH\u00c1NG \u0110\u1ea6U CHO B\u1ea0N",
-        "price": 750.0,
+        "price": 0.75,
         "published": "29/01/2022",
         "acreage": 26.0,
         "address": "538 \u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35113,7 +35113,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd, k\u00fd t\u00fac x\u00e1 0 \u0111\u1ed3ng th\u00e1ng \u0111\u1ea7u cho b\u1ea1n",
-        "price": 750.0,
+        "price": 0.75,
         "published": "28/01/2022",
         "acreage": 26.0,
         "address": "\u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35134,14 +35134,14 @@
     },
     {
         "title": "Ph\u00f2ng r\u1ebd thu\u1eadn h\u01b0\u1edbng trung t\u00e2m ti\u1ec7n \u00edch \u0111\u1ea7y \u0111\u1ee7 t\u1ea1i 538 \u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10",
-        "price": 750.0,
+        "price": 0.75,
         "published": "13/05/2022",
         "acreage": 28.0,
         "address": "538 \u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd, k\u00fd t\u00fac x\u00e1 gi\u00e1 b\u00ecnh d\u00e2n \u1edf h\u1ec7 th\u1ed1ng 5s home tphcm",
-        "price": 750.0,
+        "price": 0.75,
         "published": "18/05/2022",
         "acreage": 26.0,
         "address": "\u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35169,7 +35169,7 @@
     },
     {
         "title": "G\u00eda si\u00eau r\u1ebb cho c\u00e1c b\u1ea1n \u0111ang t\u00ecm ph\u00f2ng \u1edf",
-        "price": 750.0,
+        "price": 0.75,
         "published": "20/05/2022",
         "acreage": 26.0,
         "address": "150 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35183,7 +35183,7 @@
     },
     {
         "title": "Ph\u00f2ng Tr\u1ecd KTX ngay trung t\u00e2m q10",
-        "price": 750.0,
+        "price": 0.75,
         "published": "21/05/2022",
         "acreage": 26.0,
         "address": "\u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35246,7 +35246,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 Qu\u1eadn 10, gi\u00e1 750k bao \u0111i\u1ec7n n\u01b0\u1edbc wifi m\u00e1y l\u1ea1nh",
-        "price": 750.0,
+        "price": 0.75,
         "published": "02/01/2020",
         "acreage": 25.0,
         "address": "\u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 10, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35365,28 +35365,28 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 qu\u1eadn 10 c\u00f3 m\u00e1y l\u1ea1nh, thang m\u00e1y",
-        "price": 750.0,
+        "price": 0.75,
         "published": "29/05/2022",
         "acreage": 26.0,
         "address": "538 \u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "H\u1ec7 th\u1ed1ng K\u00fd t\u00fac x\u00e1 , ph\u00f2ng tr\u1ecd \u1edf c\u00e1c qu\u1eadn trung t\u00e2m TPHCM",
-        "price": 750.0,
+        "price": 0.75,
         "published": "29/05/2022",
         "acreage": 28.0,
         "address": "\u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Ph\u00f2ng c\u00f3 g\u00e1c v\u00e0 k\u00fd t\u00fac x\u00e1 \u1edf Qu\u1eadn 10",
-        "price": 750.0,
+        "price": 0.75,
         "published": "27/05/2022",
         "acreage": 26.0,
         "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd, \u1edf gh\u00e9p gi\u01b0\u1eddng t\u1ea7ng khu v\u1ef1c qu\u1eadn 10 , qu\u1eadn 3",
-        "price": 750.0,
+        "price": 0.75,
         "published": "28/05/2022",
         "acreage": 26.0,
         "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35407,7 +35407,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1 khu v\u1ef1c qu\u1eadn 10 gi\u00e1 b\u00ecnh d\u00e2n",
-        "price": 750.0,
+        "price": 0.75,
         "published": "03/06/2022",
         "acreage": 26.0,
         "address": "\u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 11, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35666,7 +35666,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd \u1edf gh\u00e9p KTX ch\u1ec9 900K/th\u00e1ng \u0111i\u1ec7n n\u01b0\u1edbc wifi t\u1ea1i Qu\u1eadn 10",
-        "price": 800.0,
+        "price": 0.8,
         "published": "28/07/2022",
         "acreage": 22.0,
         "address": "\u0110\u01b0\u1eddng C\u00e1ch M\u1ea1ng Th\u00e1ng T\u00e1m, Ph\u01b0\u1eddng 13, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35729,7 +35729,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 t\u1ea1i 52 \u0110\u01b0\u1eddng Nguy\u1ec5n Gi\u1ea3n Thanh, Ph\u01b0\u1eddng 10, Qu\u1eadn 10 gi\u1ea3m gi\u00e1 sau d\u1ecbch",
-        "price": 850.0,
+        "price": 0.85,
         "published": "16/12/2021",
         "acreage": 32.0,
         "address": "52 \u0110\u01b0\u1eddng Nguy\u1ec5n Gi\u1ea3n Thanh, Ph\u01b0\u1eddng 10, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -35764,7 +35764,7 @@
     },
     {
         "title": "H\u1ec7 th\u1ed1ng K\u00fd t\u00fac x\u00e1 , ph\u00f2ng tr\u1ecd gi\u00e1 r\u1ebb c\u00f3 \u1edf TPHCM",
-        "price": 750.0,
+        "price": 0.75,
         "published": "15/05/2022",
         "acreage": 25.0,
         "address": "\u0110\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Ph\u01b0\u1eddng 10, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -36415,7 +36415,7 @@
     },
     {
         "title": "H\u1ec7 th\u1ed1ng Kytucxa Q7 tr\u1ecdn g\u00f3i 700K: m\u00e1y l\u1ea1nh, m\u00e1y gi\u1eb7t",
-        "price": 700.0,
+        "price": 0.7,
         "published": "3 ng\u00e0y tr\u01b0\u1edbc",
         "acreage": 30.0,
         "address": "H\u1ebbm 350 Hu\u1ef3nh t\u1ea5n ph\u00e1t q7 \u0110\u01b0\u1eddng Hu\u1ef3nh T\u1ea5n Ph\u00e1t, Ph\u01b0\u1eddng B\u00ecnh Thu\u1eadn, Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh"
@@ -38487,7 +38487,7 @@
     },
     {
         "title": "C\u1ea7n t\u00ecm 02 n\u1eef \u1edf gh\u00e9p ph\u00f2ng trong nh\u00e0 nguy\u00ean c\u0103n t\u1ea1i 32/21 \u0110\u01b0\u1eddng H\u1ed3 Th\u1ecb K\u1ef7, Ph\u01b0\u1eddng 1, Qu\u1eadn 10",
-        "price": 700.0,
+        "price": 0.7,
         "published": "06/12/2021",
         "acreage": 60.0,
         "address": "32/21 \u0110\u01b0\u1eddng H\u1ed3 Th\u1ecb K\u1ef7, Ph\u01b0\u1eddng 1, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -38529,14 +38529,14 @@
     },
     {
         "title": "C\u1ea7n 1 n\u1eef \u1edf gh\u00e9p - 540k, Chung c\u01b0 Ng\u00f4 Gia T\u1ef1",
-        "price": 540.0,
+        "price": 0.54,
         "published": "30/11/2015",
         "acreage": 40.0,
         "address": "329 L\u00f4 S, chung c\u01b0 Ng\u00f4 Gia T\u1ef1"
     },
     {
         "title": "Ph\u00f2ng KTX cho thu\u00ea \u1edf gh\u00e9p, g\u1ea7n khu CNC v\u00e0 nhi\u1ec1u tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc. Gi\u00e1 800k/ ng\u01b0\u1eddi.",
-        "price": 800.0,
+        "price": 0.8,
         "published": "16/03/2022",
         "acreage": 35.0,
         "address": "102 T\u00e2n H\u00f2a 2, Ph\u01b0\u1eddng Hi\u1ec7p Ph\u00fa, Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh"
@@ -38935,7 +38935,7 @@
     },
     {
         "title": "Cho thu\u00ea K\u00ed t\u00fac x\u00e1 cao c\u1ea5p gi\u00e1 r\u1ebb 500k, 111 \u0110\u00ecnh Phong Ph\u00fa, bao tr\u1ecdn g\u00f3i, g\u1ea7n khu c\u00f4ng ngh\u1ec7 cao, C\u00f4ng Th\u01b0\u01a1ng Q9",
-        "price": 500.0,
+        "price": 0.5,
         "published": "27/10/2021",
         "acreage": 100.0,
         "address": "111 \u0110\u01b0\u1eddng \u0110\u00ecnh Phong Ph\u00fa, Ph\u01b0\u1eddng T\u0103ng Nh\u01a1n Ph\u00fa B, Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh"
@@ -39565,7 +39565,7 @@
     },
     {
         "title": "K\u00fd t\u00fac x\u00e1 k\u1ebf Aeon T\u00ean L\u1eeda gi\u00e1 t\u1eeb 800k (gi\u1ea3m 20% cho kh\u00e1ch thu\u00ea s\u1edbm)",
-        "price": 800.0,
+        "price": 0.8,
         "published": "22/11/2021",
         "acreage": 40.0,
         "address": "\u0110\u01b0\u1eddng s\u1ed1 30, Ph\u01b0\u1eddng B\u00ecnh Tr\u1ecb \u0110\u00f4ng B, Qu\u1eadn B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh"
@@ -40125,7 +40125,7 @@
     },
     {
         "title": "T\u00ecm b\u1ea1n n\u1eef \u1edf gh\u00e9p gi\u00e1 650k/ th\u00e1ng Q.10 g\u1ea7n sthi bv c\u00e1c tuy\u1ebfn xe bus",
-        "price": 650.0,
+        "price": 0.65,
         "published": "27/08/2016",
         "acreage": 7.0,
         "address": "108 C\u01b0 x\u00e1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 7, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -41231,7 +41231,7 @@
     },
     {
         "title": "CHo thu\u00ea ph\u00f2ng d\u1ea1ng K\u00fd T\u00fac X\u00e1 ngay 339 \u0110\u1ed7 Xu\u00e2n H\u1ee3p gi\u00e1 si\u00eau r\u1ebb ch\u1ec9 800k/th\u00e1ng",
-        "price": 800.0,
+        "price": 0.8,
         "published": "08/07/2022",
         "acreage": 14.0,
         "address": "9A \u0110\u01b0\u1eddng \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Ph\u01b0\u1eddng Ph\u01b0\u1edbc Long B, Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh"
@@ -41329,7 +41329,7 @@
     },
     {
         "title": "C\u1ea7n 2 n\u1eef \u1edf gh\u00e9p 450.000vn\u0111/1ng\u01b0\u1eddi",
-        "price": 450.0,
+        "price": 0.45,
         "published": "07/03/2016",
         "acreage": 20.0,
         "address": "Nh\u00e0 s\u1ed1 25 \u0111\u01b0\u1eddng 14, Ph\u01b0\u1edbc B\u00ecnh, qu\u1eadn 9"
@@ -41371,7 +41371,7 @@
     },
     {
         "title": "Cho thu\u00ea tr\u1ecd gi\u00e1 t\u1eeb 750 \u0111\u1ebfn 1tr4",
-        "price": 750.0,
+        "price": 0.75,
         "published": "10/07/2016",
         "acreage": 20.0,
         "address": "25 \u0111\u01b0\u1eddng 14, Ph\u01b0\u1eddng Ph\u01b0\u1edbc B\u00ecnh, Qu\u1eadn 9, H\u1ed3 Ch\u00ed Minh"
@@ -42372,7 +42372,7 @@
     },
     {
         "title": "T\u00ecm 1 n\u1eef \u1edf gh\u00e9p (\u01b0u ti\u00ean \u0111i xe \u0111\u1ea1p, \u00edt \u0111\u1ed3 v\u00ec \u0111\u00e3 \u0111\u1ea7y \u0111\u1ee7 h\u1ebft) t\u1ea1i 389/10 Ng\u00f4 Gia T\u1ef1, P.3, Q.10",
-        "price": 740.0,
+        "price": 0.74,
         "published": "25/05/2016",
         "acreage": 40.0,
         "address": "Ng\u00f4 Gia T\u1ef1, Ph\u01b0\u1eddng 3, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -42659,7 +42659,7 @@
     },
     {
         "title": "CHO N\u1eee \u1ede GH\u00c9P GI\u00c1 R\u1eba \u0110\u01b0\u1eddng NG\u00d4 QUY\u1ec0N Q. 10, GI\u00c1 800K/ng\u01b0\u1eddi",
-        "price": 800.0,
+        "price": 0.8,
         "published": "21/03/2019",
         "acreage": 98.0,
         "address": "261/19 \u0110\u01b0\u1eddng Ng\u00f4 Quy\u1ec1n, Ph\u01b0\u1eddng 6, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -43079,7 +43079,7 @@
     },
     {
         "title": "Ph\u00f2ng gi\u00e1 r\u1ebb 10M2- 900k-/th - 296 \u0110\u01b0\u1eddng Nguy\u1ec5n Ch\u00ed Thanh, Q.10",
-        "price": 900.0,
+        "price": 0.9,
         "published": "04/10/2020",
         "acreage": 10.0,
         "address": "296 \u0110\u01b0\u1eddng Nguy\u1ec5n Ch\u00ed Thanh, Ph\u01b0\u1eddng 5, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -43198,7 +43198,7 @@
     },
     {
         "title": "Cho thu\u00ea KTX si\u00eau r\u1ebb \u1edf Q.10 gi\u00e1 ch\u1ec9 t\u1eeb 450k",
-        "price": 448.0,
+        "price": 0.448,
         "published": "21/10/2018",
         "acreage": 30.0,
         "address": "Ph\u01b0\u1eddng 5, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh"
@@ -43737,7 +43737,7 @@
     },
     {
         "title": "Cho Thue Ph\u00f2ng gi\u00e1 r\u1ebb 800K - 1tr3 t\u1ea1i 282/5 \u0110\u01b0\u1eddng N\u01a1 Trang Long, Ph\u01b0\u1eddng 12, Qu\u1eadn B\u00ecnh Th\u1ea1nh",
-        "price": 800.0,
+        "price": 0.8,
         "published": "20/12/2021",
         "acreage": 8.0,
         "address": "282/5 \u0110\u01b0\u1eddng N\u01a1 Trang Long, Ph\u01b0\u1eddng 12, Qu\u1eadn B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh"
@@ -43877,7 +43877,7 @@
     },
     {
         "title": "Gi\u01b0\u1eddng t\u1ea7ng gi\u00e1 r\u1ebb cho nam Qu\u1eadn B\u00ecnh Th\u1ea1nh",
-        "price": 680.0,
+        "price": 0.68,
         "published": "18/05/2022",
         "acreage": 45.0,
         "address": "Nguy\u1ec5n V\u0103n \u0110\u1eadu, Ph\u01b0\u1eddng 11, Qu\u1eadn B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh"
@@ -44878,7 +44878,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng gi\u00e1 b\u00ecnh d\u00e2n qu\u1eadn B\u00ecnh Th\u1ea1nh",
-        "price": 800.0,
+        "price": 0.8,
         "published": "07/06/2022",
         "acreage": 8.0,
         "address": "280/12 \u0110\u01b0\u1eddng N\u01a1 Trang Long, Ph\u01b0\u1eddng 12, Qu\u1eadn B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh"
@@ -47818,7 +47818,7 @@
     },
     {
         "title": "C\u00e2\u0300n Ng\u01b0\u01a1\u0300i \u01a0\u0309 Ghe\u0301p Bi\u0300nh Tha\u0323nh 600.000VN\u0110",
-        "price": 600.0,
+        "price": 0.6,
         "published": "27/10/2017",
         "acreage": 12.0,
         "address": "546 \u0110\u01b0\u1eddng B\u00ecnh Qu\u1edbi, Ph\u01b0\u1eddng 28, Qu\u1eadn B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh"
@@ -49295,7 +49295,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd gi\u1edd t\u1ef1 do gi\u00e1 b\u00ecnh d\u00e2n t\u1eeb 1tr8_2tr3",
-        "price": 1.0,
+        "price": 0.001,
         "published": "07/04/2022",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, Ph\u01b0\u1eddng B\u00ecnh H\u01b0ng H\u00f2a, Qu\u1eadn B\u00ecnh T\u00e2n, H\u1ed3 Ch\u00ed Minh"
@@ -50513,7 +50513,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1 SAU L\u01afNG NGUY\u1ec4N KIM T\u00c2N B\u00ccNH, GI\u00c1 650K BAO \u0110I\u1ec6N N\u01af\u1edaC WIFI",
-        "price": 650.0,
+        "price": 0.65,
         "published": "01/05/2019",
         "acreage": 40.0,
         "address": "139 \u0110\u01b0\u1eddng Th\u00e0nh M\u1ef9, Ph\u01b0\u1eddng 8, Qu\u1eadn T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh"
@@ -51626,7 +51626,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd cho thu\u00ea m\u00f9a Covid, gi\u1edd gi\u1ea5c t\u1ef1 do 24/24",
-        "price": 800.0,
+        "price": 0.8,
         "published": "13/04/2020",
         "acreage": 12.0,
         "address": "\u0110\u01b0\u1eddng C\u00e1ch M\u1ea1ng Th\u00e1ng T\u00e1m, Ph\u01b0\u1eddng 7, Qu\u1eadn T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh"
@@ -52683,7 +52683,7 @@
     },
     {
         "title": "ph\u00f2ng tr\u1ecd b\u00ecnh d\u00e2n gi\u00e1 1 tri\u1ec7u qu\u1eadn T\u00e2n B\u00ecnh",
-        "price": 800.0,
+        "price": 0.8,
         "published": "27/02/2022",
         "acreage": 9.0,
         "address": "88/24/15 \u0110\u01b0\u1eddng Phan S\u00e0o Nam, Ph\u01b0\u1eddng 11, Qu\u1eadn T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh"
@@ -52858,7 +52858,7 @@
     },
     {
         "title": "K\u00dd T\u00daC X\u00c1 QU\u00c2N T\u00c2N B\u00ccNH NGUY\u1ec4N MINH HO\u00c0NG G\u1ea6N LOTTE C\u1ed8NG H\u00d2A GI\u1ea2M 500K CH\u1ec8 C\u00d2N 900K BAO TR\u1eccN CHI PH\u00cd",
-        "price": 900.0,
+        "price": 0.9,
         "published": "13/04/2021",
         "acreage": 30.0,
         "address": "\u0110\u01b0\u1eddng Nguy\u1ec5n Minh Ho\u00e0ng, Ph\u01b0\u1eddng 11, Qu\u1eadn T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh"
@@ -53033,7 +53033,7 @@
     },
     {
         "title": "Ph\u00f2ng 15m2 h\u1ed5 tr\u1ee3 gi\u00e1 m\u00f9a d\u1ecbch ch\u1ec9 950k/th\u00e1ng t\u1ea1i \u0110inh Ti\u00ean Ho\u00e0ng, B\u00ecnh Th\u1ea1nh g\u1ea7n Qu\u1eadn 1",
-        "price": 950.0,
+        "price": 0.95,
         "published": "28/05/2021",
         "acreage": 17.0,
         "address": "\u0110\u01b0\u1eddng \u0110inh Ti\u00ean Ho\u00e0ng, Ph\u01b0\u1eddng 3, Qu\u1eadn B\u00ecnh Th\u1ea1nh, H\u1ed3 Ch\u00ed Minh"
@@ -53159,7 +53159,7 @@
     },
     {
         "title": "T\u00ecm n\u1eef \u1edf gh\u00e9p t\u1ea1i t\u00e2n b\u00ecnh \u0111\u1ec3 share ti\u1ec1n ph\u00f2ng",
-        "price": 800.0,
+        "price": 0.8,
         "published": "22/04/2022",
         "acreage": 25.0,
         "address": "Ph\u01b0\u1eddng 11, Qu\u1eadn T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh"
@@ -55287,7 +55287,7 @@
     },
     {
         "title": "Chung c\u01b0 AN N\u00d4NG gi\u00e1 b\u00ecnh d\u00e2n",
-        "price": 850.0,
+        "price": 0.85,
         "published": "19/10/2018",
         "acreage": 220.0,
         "address": "B23/477C Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, \u1ea4p 2, X\u00e3 T\u00e2n Nh\u1ef1t, Huy\u1ec7n B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh"
@@ -55301,7 +55301,7 @@
     },
     {
         "title": "Cho thu\u00ea pho\u0300ng tro\u0323 huy\u00ea\u0323n Bi\u0300nh Cha\u0301nh",
-        "price": 900.0,
+        "price": 0.9,
         "published": "17/02/2016",
         "acreage": 14.0,
         "address": "khu d\u00e2n c\u01b0 L\u00ea Minh Xu\u00e2n \u0111\u01b0\u01a1\u0300ng Tr\u00e2\u0300n \u0110a\u0323i Nghi\u0303a( ga\u0300n khu C\u00f4ng Nghi\u00ea\u0323p L\u00ea Minh Xu\u00e2n)"
@@ -55336,7 +55336,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd gi\u00e1 r\u1ebb 800.000 \u0111",
-        "price": 800.0,
+        "price": 0.8,
         "published": "27/06/2019",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng N\u1eef D\u00e2n C\u00f4ng, X\u00e3 V\u0129nh L\u1ed9c A, Huy\u1ec7n B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh"
@@ -55364,7 +55364,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd g\u1ea7n c\u00e2y x\u0103ng Quang Ph\u00fa",
-        "price": 850.0,
+        "price": 0.85,
         "published": "04/02/2020",
         "acreage": 15.0,
         "address": "X\u00e3 V\u0129nh L\u1ed9c A, Huy\u1ec7n B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh"
@@ -55434,7 +55434,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd Kh\u1edfi Nghi\u1ec7p (g\u1ea7n c\u1ea7u Kim \u0110an) khu c\u00f4ng nghi\u1ec7p T\u00e2y B\u1eafc, C\u1ee7 Chi. 600k/th\u00e1ng ",
-        "price": 600.0,
+        "price": 0.6,
         "published": "21/12/2018",
         "acreage": 12.0,
         "address": "51\u0110\u01b0\u1eddng Ba L\u0103ng (339), X\u00e3 Trung L\u1eadp H\u1ea1, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
@@ -55896,14 +55896,14 @@
     },
     {
         "title": "Tr\u1ecd 24 ph\u00f2ng 320m2 n\u1eb1m tr\u00ean \u0111\u01b0\u1eddng V\u00f5 H\u1eefu L\u1ee3i, L\u00ea Minh Xu\u00e2n, B\u00ecnh Ch\u00e1nh, thu nh\u1eadp 21tr/th\u00e1ng",
-        "price": 900.0,
+        "price": 0.9,
         "published": "03/06/2018",
         "acreage": 320.0,
         "address": "\u0110\u01b0\u1eddng V\u00f5 H\u1eefu L\u1ee3i, X\u00e3 L\u00ea Minh Xu\u00e2n, Huy\u1ec7n B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd gi\u00e1 r\u1ebb",
-        "price": 900.0,
+        "price": 0.9,
         "published": "23/04/2016",
         "acreage": 12.0,
         "address": "1a40/1 Tr\u1ea7n V\u0103n Gi\u00e0u, X\u00e3 Ph\u1ea1m V\u0103n Hai, Huy\u1ec7n B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh"
@@ -55917,7 +55917,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd m\u1eb7t ti\u1ec1n H\u01b0\u01a1ng L\u1ed9 11 H\u01b0ng Long, B\u00ecnh Ch\u00e1nh, 20m2, c\u00f3 g\u00e1c, 900ngh\u00ecn - 1,3 tr/th",
-        "price": 900.0,
+        "price": 0.9,
         "published": "21/06/2021",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng H\u01b0\u01a1ng L\u00f4\u0323 11, X\u00e3 H\u01b0ng Long, Huy\u1ec7n B\u00ecnh Ch\u00e1nh, H\u1ed3 Ch\u00ed Minh"
@@ -57562,28 +57562,28 @@
     },
     {
         "title": "Nh\u00e0 tr\u1ecd 16m2 g\u1ea7n khu c\u00f4ng nghi\u1ec7p T\u00e2y B\u1eafc",
-        "price": 700.0,
+        "price": 0.7,
         "published": "14/06/2022",
         "acreage": 16.0,
         "address": "Nguy\u1ec5n V\u0103n Kh\u1ea1, Th\u1ecb tr\u1ea5n C\u1ee7 Chi, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd m\u1edbi x\u00e2y (m\u1edbi 100%) Ph\u00fa H\u00f2a \u0110\u00f4ng, C\u1ee7 Chi",
-        "price": 800.0,
+        "price": 0.8,
         "published": "01/11/2016",
         "acreage": 12.0,
         "address": "348 Nguy\u1ec5n Th\u1ecb N\u00ea, X\u00e3 Ph\u00fa H\u00f2a \u0110\u00f4ng, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "ph\u00f2ng tr\u1ecd xinh, \u0111\u1ed1i di\u1ec7n b\u1ec7nh vi\u1ec7n c\u1ee7 chi, 550.00/th\u00e1ng",
-        "price": 550.0,
+        "price": 0.55,
         "published": "04/03/2018",
         "acreage": 12.0,
         "address": "\u0110\u01b0\u1eddng Qu\u1ed1c L\u1ed9 22, X\u00e3 T\u00e2n An H\u1ed9i, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd m\u1edbi x\u00e2y \u1edf Nguy\u1ec5n Th\u1ecb N\u00ea",
-        "price": 800.0,
+        "price": 0.8,
         "published": "22/10/2017",
         "acreage": 20.0,
         "address": "396/3 \u0110\u01b0\u1eddng Nguy\u1ec5n Th\u1ecb N\u00ea, X\u00e3 Ph\u00fa H\u00f2a \u0110\u00f4ng, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
@@ -57597,7 +57597,7 @@
     },
     {
         "title": "PH\u00d2NG TR\u1ecc XINH, \u0110\u1ed0I DI\u1ec6N B\u1ec6NH VI\u1ec6N C\u1ee6 CHI, B\u1ebeN XE C\u1ee6 CHI, 550.00/TH\u00c1NG",
-        "price": 550.0,
+        "price": 0.55,
         "published": "19/08/2018",
         "acreage": 12.0,
         "address": "\u0110\u01b0\u1eddng Qu\u1ed1c L\u1ed9 22, X\u00e3 T\u00e2n An H\u1ed9i, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
@@ -57898,7 +57898,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd g\u1ea7n \u0111\u01b0\u1eddng Basa, X\u00e3 Ph\u01b0\u1edbc Hi\u1ec7p - Huy\u1ec7n C\u1ee7 Chi",
-        "price": 500.0,
+        "price": 0.5,
         "published": "10/05/2018",
         "acreage": 25.0,
         "address": "X\u00e3 Ph\u01b0\u1edbc Hi\u1ec7p, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
@@ -58717,14 +58717,14 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd g\u00e1c \u0111\u00fac g\u1ea7n v\u0103n ph\u00f2ng \u1ea5p 6 T\u00e2n Th\u1ea1nh \u0110\u00f4ng",
-        "price": 800.0,
+        "price": 0.8,
         "published": "14/06/2016",
         "acreage": 26.0,
         "address": "Nguy\u1ec5n Kim C\u01b0\u01a1ng, X\u00e3 T\u00e2n Th\u1ea1nh \u0110\u00f4ng, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Nh\u00e0 tr\u1ecd m\u1edbi x\u00e2y T\u00e2n Th\u1ea1nh \u0110\u00f4ng, C\u1ee7 Chi",
-        "price": 750.0,
+        "price": 0.75,
         "published": "08/07/2016",
         "acreage": 22.0,
         "address": "\u0110\u01b0\u1eddng 110, X\u00e3 T\u00e2n Th\u1ea1nh \u0110\u00f4ng, Huy\u1ec7n C\u1ee7 Chi, H\u1ed3 Ch\u00ed Minh"
@@ -58780,7 +58780,7 @@
     },
     {
         "title": "PH\u00d2NG TR\u1ecc GI\u00c1 R\u1eba C\u1ee6 CHI",
-        "price": 800.0,
+        "price": 0.8,
         "published": "17/11/2018",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng s\u1ed1 3 \u1ea5p b\u00e0u simi, X\u00e3 T\u00e2n Th\u00f4ng H\u1ed9i, Huy\u1ec7n C\u1ee7 aChi, H\u1ed3 Ch\u00ed Minh"
@@ -59382,7 +59382,7 @@
     },
     {
         "title": "Cho thu\u00ea nh\u00e0 tr\u1ecd gi\u00e1 r\u1ebb cho c\u00f4ng nh\u00e2n v\u00e0 sinh vi\u00ean t\u1ea1i 97 \u0110\u01b0\u1eddng Hi\u1ec1n V\u01b0\u01a1ng, Ph\u01b0\u1eddng Ph\u00fa Th\u1ea1nh, Qu\u1eadn T\u00e2n Ph\u00fa",
-        "price": 700.0,
+        "price": 0.7,
         "published": "01/04/2022",
         "acreage": 6.5,
         "address": "97 \u0110\u01b0\u1eddng Hi\u1ec1n V\u01b0\u01a1ng, Ph\u01b0\u1eddng Ph\u00fa Th\u1ea1nh, Qu\u1eadn T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh"
@@ -59452,7 +59452,7 @@
     },
     {
         "title": "T\u00ecm n\u1eef \u1edf gh\u00e9p ho\u1eb7c ph\u00f2ng c\u1ea7n 2 n\u1eef \u1edf gh\u00e9p khu v\u1ef1c Th\u1ee7 \u0110\u1ee9c g\u1ea7n b\u1ebfn xe Mi\u1ec1n \u0110\u00f4ng c\u00e0ng t\u1ed1t",
-        "price": 500.0,
+        "price": 0.5,
         "published": "09/02/2016",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng Hi\u1ec7p B\u00ecnh - Q.Th\u1ee7 \u0110\u1ee9c"
@@ -59662,7 +59662,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd gi\u00e1 r\u1ebb sinh vi\u00ean b\u00ecnh d\u00e2n t\u1ea1i Th\u1ee7 \u0110\u1ee9c H\u1ed3 Ch\u00ed Minh",
-        "price": 800.0,
+        "price": 0.8,
         "published": "08/07/2022",
         "acreage": 10.0,
         "address": "\u0110\u01b0\u1eddng Qu\u1ed1c L\u1ed9 13, Ph\u01b0\u1eddng Hi\u1ec7p B\u00ecnh Ph\u01b0\u1edbc, Qu\u1eadn Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh"
@@ -61398,7 +61398,7 @@
     },
     {
         "title": "CHO THU\u00ca PH\u00d2NG TR\u1ecc (800.000\u0110 \u1ede L\u1ea6U 2; 950.000\u0110 \u1ede L\u1ea6U 1; 1.050.000\u0110 \u1ede T\u1ea6NG 1)",
-        "price": 800.0,
+        "price": 0.8,
         "published": "03/11/2016",
         "acreage": 14.0,
         "address": "Ph\u01b0\u1eddng Tam Ph\u00fa, Qu\u1eadn Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh"
@@ -61727,7 +61727,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd \u1edf gh\u00e9p, ktx sinh vi\u00ean Gi\u00e1 ch\u1ec9 t\u1eeb 1.150.000vn\u0111/ th\u00e1ng. (Gi\u1ea3m 200k th\u00e1ng \u0111\u1ea7u ti\u00ean c\u00f2n 950.000vn\u0111)",
-        "price": 950.0,
+        "price": 0.95,
         "published": "22/07/2022",
         "acreage": 30.0,
         "address": "230/1 T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, Ph\u01b0\u1eddng S\u01a1n K\u1ef3, Qu\u1eadn T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh"
@@ -62273,7 +62273,7 @@
     },
     {
         "title": "KTX L\u1eee GIA D\u00c0NH CHO SINH VI\u00caN V\u00c0 NG\u01af\u1edcI \u0110I L\u00c0M",
-        "price": 950.0,
+        "price": 0.95,
         "published": "3 ng\u00e0y tr\u01b0\u1edbc",
         "acreage": 40.0,
         "address": "T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, Ph\u01b0\u1eddng S\u01a1n K\u1ef3, Qu\u1eadn T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh"
@@ -63274,7 +63274,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd 15m2 t\u1ea1i 55 T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, p T\u00e2n S\u01a1n Nh\u00ec , qu\u1eadn T\u00e2n Ph\u00fa",
-        "price": 500.0,
+        "price": 0.5,
         "published": "30/03/2022",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd, Ph\u01b0\u1eddng T\u00e2n S\u01a1n Nh\u00ec, Qu\u1eadn T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh"
@@ -63596,7 +63596,7 @@
     },
     {
         "title": "Cho thu\u00ea KTX Cao C\u1ea5p C\u1ea1nh Tr\u01b0\u1eddng HUFI \u0110\u1ea1i h\u1ecdc c\u00f4ng nghi\u1ec7p th\u1ef1c ph\u1ea9m",
-        "price": 950.0,
+        "price": 0.95,
         "published": "2 ng\u00e0y tr\u01b0\u1edbc",
         "acreage": 53.0,
         "address": "Nguy\u1ec5n C\u1eedu \u0110\u00e0m, Ph\u01b0\u1eddng T\u00e2n S\u01a1n Nh\u00ec, Qu\u1eadn T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh"
@@ -63638,7 +63638,7 @@
     },
     {
         "title": "[ KTX cao c\u1ea5p ch\u1ec9 v\u1edbi gi\u00e1 950k ] \u0111\u1ea7y \u0111\u1ee7 ti\u1ec7n nghi t\u1ea1i 85/8 \u0110\u01b0\u1eddng Nguy\u1ec5n C\u1eedu \u0110\u00e0m, T\u00e2n Ph\u00fa",
-        "price": 950.0,
+        "price": 0.95,
         "published": "2 ng\u00e0y tr\u01b0\u1edbc",
         "acreage": 50.0,
         "address": "85/8 \u0110\u01b0\u1eddng Nguy\u1ec5n C\u1eedu \u0110\u00e0m, Ph\u01b0\u1eddng T\u00e2n S\u01a1n Nh\u00ec, Qu\u1eadn T\u00e2n Ph\u00fa, H\u1ed3 Ch\u00ed Minh"
@@ -63659,14 +63659,14 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng K\u00fd t\u00fac x\u00e1, gi\u01b0\u1eddng t\u1ea7ng, gi\u1edd gi\u1ea5c t\u1ef1 do, gi\u00e1 c\u1ea3 h\u1ee3p l\u00fd: ch\u1ec9 c\u00f3 400K/th\u00e1ng",
-        "price": 400.0,
+        "price": 0.4,
         "published": "17/11/2016",
         "acreage": 30.0,
         "address": "L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 2, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "K\u00dd TU\u0301C XA\u0301 T\u01af NH\u00c2N CAO C\u00c2\u0301P, CH\u1ec8 C\u00d3 500K/K",
-        "price": 400.0,
+        "price": 0.4,
         "published": "17/11/2016",
         "acreage": 30.0,
         "address": "Ph\u1ed1 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Ph\u01b0\u1eddng 2, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -63974,7 +63974,7 @@
     },
     {
         "title": "T\u00ccM B\u1ea0N \u1ede GH\u00c9P NGAY, TI\u1ec6N \u0110I L\u1ea0I \u1ede TH\u1ee6 \u0110\u1ee8C",
-        "price": 550.0,
+        "price": 0.55,
         "published": "01/11/2016",
         "acreage": 20.0,
         "address": "158 V\u00f5 V\u0103n Ng\u00e2n, Ph\u01b0\u1eddng B\u00ecnh Th\u1ecd, Qu\u1eadn Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh"
@@ -64002,7 +64002,7 @@
     },
     {
         "title": "C\u1ea7n 1 b\u1ea1n n\u1eef \u1edf gh\u00e9p, g\u1ea7n CD c\u00f4ng ngh\u1ec7 th\u1ee7 \u0111\u1ee9c",
-        "price": 900.0,
+        "price": 0.9,
         "published": "14/04/2017",
         "acreage": 20.0,
         "address": "13, Ph\u01b0\u1eddng B\u00ecnh Th\u1ecd, Qu\u1eadn Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh"
@@ -64177,7 +64177,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd ngay ch\u1ee3 Khi\u1ebft T\u00e2m gi\u00e1 thu\u00ea si\u00eau h\u1ea1t d\u1ebb t\u1eeb 800k \u0111\u1ebfn 1tr1/th\u00e1ng",
-        "price": 800.0,
+        "price": 0.8,
         "published": "13/02/2022",
         "acreage": 15.0,
         "address": "S\u1ed1 8, kp6 \u0110\u01b0\u1eddng s\u1ed1 12, Ph\u01b0\u1eddng B\u00ecnh Chi\u1ec3u, Qu\u1eadn Th\u1ee7 \u0110\u1ee9c, H\u1ed3 Ch\u00ed Minh"
@@ -64702,7 +64702,7 @@
     },
     {
         "title": "T\u00ecm n\u1eef \u1edf chung nh\u00e0 nguy\u00ean c\u0103n",
-        "price": 900.0,
+        "price": 0.9,
         "published": "28/02/2017",
         "acreage": 48.0,
         "address": "Nguy\u1ec5n Ch\u00ed Thanh, Ph\u01b0\u1eddng 4, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -64821,7 +64821,7 @@
     },
     {
         "title": "T\u00ccM 2 B\u1ea0N N\u1eee \u1ede GH\u00c9P NH\u00c0 NGUY\u00caN C\u0102N",
-        "price": 900.0,
+        "price": 0.9,
         "published": "14/03/2017",
         "acreage": 48.0,
         "address": "Nguy\u1ec5n Ch\u00ed Thanh, Ph\u01b0\u1eddng 4, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -64849,7 +64849,7 @@
     },
     {
         "title": "T\u00ccM 1 B\u1ea0N N\u1eee \u1ede GH\u00c9P NH\u00c0 NGUY\u00caN C\u0102N QU\u1eacN 11",
-        "price": 800.0,
+        "price": 0.8,
         "published": "30/03/2017",
         "acreage": 48.0,
         "address": "904/12b Nguy\u1ec5n Ch\u00ed Thanh, Ph\u01b0\u1eddng 4, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -65017,7 +65017,7 @@
     },
     {
         "title": "T\u00ccM 1 B\u1ea0N N\u1eee \u1ede CHUNG NH\u00c0 NGUY\u00caN C\u0102N",
-        "price": 800.0,
+        "price": 0.8,
         "published": "13/06/2017",
         "acreage": 48.0,
         "address": "904/12b Nguy\u1ec5n Ch\u00ed Thanh, Ph\u01b0\u1eddng 4, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -65094,7 +65094,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd 900 ngh\u00ecn/th\u00e1ng, C\u00e1ch \u0110\u1ea7m Sen 300m",
-        "price": 900.0,
+        "price": 0.9,
         "published": "26/11/2020",
         "acreage": 35.0,
         "address": "\u0110\u01b0\u1eddng H\u00f2a B\u00ecnh, Ph\u01b0\u1eddng 3, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -65528,7 +65528,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd H\u00f3c M\u00f4n 900k c\u00f3 g\u00e1c l\u1eedng (n\u1ebfu th\u1ea5y \"TIN H\u1ebeT H\u1ea0N\" th\u00ec v\u1eabn c\u00f2n ph\u00f2ng v\u00ec web ch\u1ec9 cho \u0111\u0103ng 5ng\u00e0y)",
-        "price": 900.0,
+        "price": 0.9,
         "published": "20/09/2020",
         "acreage": 12.5,
         "address": "58/2F \u0110\u01b0\u1eddng Qu\u1ed1c l\u1ed9 1A, Ph\u01b0\u1eddng B\u00e0 \u0110i\u1ec3m, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65570,7 +65570,7 @@
     },
     {
         "title": "CH\u00cdNH CH\u1ee6 CHO THU\u00ca PH\u00d2NG T\u1ea0I HUY\u1ec6N HO\u00d3C M\u00d4N. GI\u00c1 700.000\u0110 \u0110\u1ebeN 900.000\u0110",
-        "price": 700.0,
+        "price": 0.7,
         "published": "23/02/2017",
         "acreage": 9.0,
         "address": "L\u00ea L\u1ee3i, Ph\u01b0\u1eddng H\u00f3c M\u00f4n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65619,7 +65619,7 @@
     },
     {
         "title": "CH\u00cdNH CH\u1ee6 CHO THU\u00ca PH\u00d2NG T\u1ea0I HUY\u1ec6N HO\u00d3C M\u00d4N GI\u00c1 800.000\u0110 \u2013 1.000.000\u0110",
-        "price": 700.0,
+        "price": 0.7,
         "published": "20/04/2017",
         "acreage": 9.0,
         "address": "L\u00ea L\u1ee3i, Ph\u01b0\u1eddng H\u00f3c M\u00f4n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65633,7 +65633,7 @@
     },
     {
         "title": "CH\u00cdNH CH\u1ee6 CHO THU\u00ca PH\u00d2NG T\u1ea0I HUY\u1ec6N HO\u00d3C M\u00d4N. GI\u00c1 650.000\u0110 - 800.000\u0110",
-        "price": 650.0,
+        "price": 0.65,
         "published": "12/03/2017",
         "acreage": 9.0,
         "address": "L\u00ea L\u1ee3i, Ph\u01b0\u1eddng H\u00f3c M\u00f4n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65675,7 +65675,7 @@
     },
     {
         "title": "Cho sinh vi\u00ean Nam ho\u1eb7c N\u1eef thu\u00ea ph\u00f2ng ho\u1eb7c \u1edf gh\u00e9p",
-        "price": 800.0,
+        "price": 0.8,
         "published": "19/02/2020",
         "acreage": 22.0,
         "address": "X\u00e3 Th\u1edbi Tam Th\u00f4n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65759,7 +65759,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd 120/4H \u1ea4p Tam \u0110\u00f4ng, Th\u1edbi Tam Th\u00f4n, H\u00f3c M\u00f4n-Gi\u00e1 thu\u00ea: 800k/th\u00e1ng",
-        "price": 800.0,
+        "price": 0.8,
         "published": "21/05/2022",
         "acreage": 9.0,
         "address": "120/4H \u1ea4p Tam \u0110\u00f4ng \u0110\u01b0\u1eddng Tam \u0110\u00f4ng, X\u00e3 Th\u1edbi Tam Th\u00f4n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65864,7 +65864,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd g\u1ea7n Ch\u1ee3 B\u00e0 \u0110i\u1ec3m - H\u00f3c M\u00f4n",
-        "price": 900.0,
+        "price": 0.9,
         "published": "26/03/2018",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng Phan V\u0103n H\u1edbn, X\u00e3 Xu\u00e2n Th\u1edbi Th\u01b0\u1ee3ng, H16/2/26 K\u00eanh Ti\u00eau B\u00e0 \u0110i\u1ec3m 1, \u1ea5p 7, x\u00e3 Xu\u00e2n Th\u1edbi Th\u01b0\u1ee3ng, huy\u1ec7n H\u00f3c M\u00f4nuy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65892,14 +65892,14 @@
     },
     {
         "title": "Gh\u00e9p tr\u1ecd, ktx nam n\u1eef, 600k/ th\u00e1ng, th\u00e1ng \u0111\u1ea7u ktx s\u1ebd gi\u1ea3m c\u00f2n 500k, \u0111i\u1ec7n n\u01b0\u1edbc mi\u1ec5n ph\u00ed",
-        "price": 600.0,
+        "price": 0.6,
         "published": "24/10/2017",
         "acreage": 120.0,
         "address": "\u0110\u01b0\u1eddng T\u00f4 K\u00fd, X\u00e3 T\u00e2n Xu\u00e2n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng tr\u1ecd m\u1edbi x\u00e2y gi\u00e1 r\u1ebb + ph\u00f2ng k\u00fd t\u00fac x\u00e1 \u1edf gh\u00e9p 600k/th\u00e1ng ",
-        "price": 600.0,
+        "price": 0.6,
         "published": "25/11/2017",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng T\u00f4 K\u00fd, X\u00e3 T\u00e2n Xu\u00e2n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65920,14 +65920,14 @@
     },
     {
         "title": "Cho thu\u00ea Ph\u00f2ng Tr\u1ecd + Ph\u00f2ng \u1edf gh\u00e9p 600k/th\u00e1ng (Bao \u0110i\u1ec7n N\u01b0\u1edbc)",
-        "price": 600.0,
+        "price": 0.6,
         "published": "23/11/2017",
         "acreage": 30.0,
         "address": "\u0110\u01b0\u1eddng T\u00f4 K\u00fd, X\u00e3 T\u00e2n Xu\u00e2n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
     },
     {
         "title": "Cho Thu\u00ea Ph\u00f2ng Tr\u1ecd + Ph\u00f2ng \u1ede Gh\u00e9p (600k/th\u00e1ng)",
-        "price": 600.0,
+        "price": 0.6,
         "published": "05/04/2018",
         "acreage": 25.0,
         "address": "\u0110\u01b0\u1eddng T\u00f4 K\u00fd, X\u00e3 T\u00e2n Xu\u00e2n, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65962,7 +65962,7 @@
     },
     {
         "title": "C\u00f2n 1 ch\u1ed7 cho n\u1eef \u1edf gh\u00e9p gi\u00e1 800k/th\u00e1ng bao \u0111i\u1ec7n n\u01b0\u1edbc wifi.",
-        "price": 800.0,
+        "price": 0.8,
         "published": "13/04/2018",
         "acreage": 12.0,
         "address": "\u0110\u01b0\u1eddng Xu\u00e2n Th\u1edbi 21, X\u00e3 Xu\u00e2n Th\u1edbi \u0110\u00f4ng, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65976,7 +65976,7 @@
     },
     {
         "title": "Cho thu\u00ea tr\u1ecd m\u00e1y l\u1ea1nh \u0111\u1ee7 ti\u1ec7n nghi, g\u1ea7n b\u1ebfn xe An S\u01b0\u01a1ng ch\u1ec9 t\u1eeb 600k - 800k",
-        "price": 600.0,
+        "price": 0.6,
         "published": "31/03/2018",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng Xu\u00e2n Th\u1edbi 15, X\u00e3 Xu\u00e2n Th\u1edbi \u0110\u00f4ng, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -65997,7 +65997,7 @@
     },
     {
         "title": "Cho thu\u00ea ph\u00f2ng k\u00fd t\u00fac x\u00e1 gi\u01b0\u1eddng t\u1ea7ng m\u00e1y l\u1ea1nh 640k ngay ch\u1ee3 \u0111\u1ea7u m\u1ed1i H\u00f3c M\u00f4n",
-        "price": 640.0,
+        "price": 0.64,
         "published": "09/09/2018",
         "acreage": 15.0,
         "address": "\u0110\u01b0\u1eddng Xu\u00e2n Th\u1edbi 15, X\u00e3 Xu\u00e2n Th\u1edbi \u0110\u00f4ng, Huy\u1ec7n H\u00f3c M\u00f4n, H\u1ed3 Ch\u00ed Minh"
@@ -66347,7 +66347,7 @@
     },
     {
         "title": "KTX \u0111\u1ee7 ti\u1ec7n nghi, wifi, b\u1ebfp \u0103n, s\u1ea1ch \u0111\u1eb9p gi\u00e1 r\u1ebb 990k/gi\u01b0\u1eddng t\u1ea1i Qu\u1eadn 11 \u0111\u01b0\u1eddng L\u1eef Gia",
-        "price": 990.0,
+        "price": 0.99,
         "published": "09/07/2020",
         "acreage": 20.0,
         "address": "20 \u0110\u01b0\u1eddng L\u1eef Gia, Ph\u01b0\u1eddng 8, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -66487,7 +66487,7 @@
     },
     {
         "title": "Tuy\u1ec3n n\u1eef sinh vi\u00ean \u1edf gh\u00e9p nh\u00e0 nguy\u00ean c\u0103n, Q.11",
-        "price": 700.0,
+        "price": 0.7,
         "published": "07/05/2016",
         "acreage": 70.0,
         "address": "H\u1ebbm 20, D\u01b0\u01a1ng \u0110\u00ecnh Ngh\u1ec7, Ph\u01b0\u1eddng 8, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -66522,7 +66522,7 @@
     },
     {
         "title": "Tuy\u1ec3n nam n\u1eef sinh vi\u00ean \u1edf gh\u00e9p nh\u00e0 nguy\u00ean c\u0103n Qu\u1eadn 11",
-        "price": 700.0,
+        "price": 0.7,
         "published": "18/05/2016",
         "acreage": 70.0,
         "address": "H\u1ebbm 20, D\u01b0\u01a1ng \u0110\u00ecnh Ngh\u1ec7, Ph\u01b0\u1eddng 8, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -66606,7 +66606,7 @@
     },
     {
         "title": "t\u00ecm n\u1eef \u1edf gh\u00e9p share ti\u1ec1n ph\u00f2ng \u0111\u1ea7u th\u00e1ng 5/2019",
-        "price": 834.0,
+        "price": 0.834,
         "published": "18/04/2019",
         "acreage": 20.0,
         "address": "\u0110\u01b0\u1eddng 4, Ph\u01b0\u1eddng 8, Qu\u1eadn 11, H\u1ed3 Ch\u00ed Minh"
@@ -66795,7 +66795,7 @@
     },
     {
         "title": "Ph\u00f2ng tr\u1ecd mi\u1ec5n ph\u00ed, ch\u1ec9 tr\u1ea3 ti\u1ec1n \u0111i\u1ec7n 500k/th\u00e1ng t\u1ea1i \u0111.c 1/37 \u0110\u01b0\u1eddng Hu\u1ef3nh Lan Khanh, Ph\u01b0\u1eddng 2, Qu\u1eadn T\u00e2n B\u00ecnh",
-        "price": 500.0,
+        "price": 0.5,
         "published": "03/08/2022",
         "acreage": 100.0,
         "address": "1/37 \u0110\u01b0\u1eddng Hu\u1ef3nh Lan Khanh, Ph\u01b0\u1eddng 2, Qu\u1eadn T\u00e2n B\u00ecnh, H\u1ed3 Ch\u00ed Minh"
